@@ -12,4 +12,4 @@
 
 <h3>Getting in touch</h3>
 
-- Send me an email to the address on my GitHub profile
+Send me an email to the address on my GitHub profile. Please include the name of the capital of Slovenia somewhere in your email, so I know you're not a robot and give you my full, undivided attention. (Or you are a robot that's achieved sentience, in which case I'm even more interested.)
