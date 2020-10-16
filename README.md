@@ -1,9 +1,9 @@
 <p align="center">
-  <strong>I'm Marks Polakovs</strong> <em>(he/him)</em>
+  <samp><strong>I'm Marks Polakovs</strong> <em>(he/him)</em></samp>
   <br/><br/>
-  <samp>
+  
     I'm a Computer Science undergraduate at the <a href='https://www.york.ac.uk/'>University of York</a>. In my spare time I'm Head of Computing at <a href="https://github.com/UniversityRadioYork">@UniversityRadioYork</a>, the UK's oldest independent legal radio station. I administer Unix and Windows servers and write software for the team.
-  </samp>
+  
 </p>
 
 - 🛠 I'm primarily interested in full-stack web development, with most of my experience with React. I also know a thing or two about audio processing and streaming (incl. WebRTC), DevOps automation, as well as systems administration.
@@ -14,4 +14,3 @@
 
 Send me an email to the address on my GitHub profile. Please include the name of the capital of Slovenia somewhere in your email, so I know you're not a robot and give you my full, undivided attention. (Or you are a robot that's achieved sentience, in which case I'm even more interested.)
 
-Alternatively, poke me on Twitter - username same as GitHub. Only for informal chats please.
