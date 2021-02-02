@@ -1,5 +1,5 @@
 <p align="center">
-  <samp><strong>I'm Marks Polakovs</strong> <em>(he/him)</em></samp>
+  <samp><strong>I'm Marks Polakovs</strong> <em>(he/they)</em></samp>
   <br/><br/>
   
 I'm a Computer Science undergraduate at the <a href='https://www.york.ac.uk/'>University of York</a>. In my spare time I'm Head of Computing at <a href="https://github.com/UniversityRadioYork">@UniversityRadioYork</a>, the UK's oldest independent legal radio station, as well as Technical Director at [@YorkVision](https://github.com/YorkVision). I administer Unix and Windows servers and write software for the team.
