@@ -2,7 +2,7 @@
   <samp><strong>I'm Marks Polakovs</strong> <em>(he/they)</em></samp>
   <br/><br/>
   
-I'm a Computer Science undergraduate at the <a href='https://www.york.ac.uk/'>University of York</a>. In my spare time I'm Technical Director at [@YorkVision](https://github.com/YorkVision) as well as doing development and systems administration for the Computing Teams at <a href="https://github.com/UniversityRadioYork">@UniversityRadioYork</a>, the UK's oldest independent legal radio station, and <a href="https://github.com/ystv">@ystv</a>, the UK's oldest student television station.
+I'm a Computer Science undergraduate at the <a href='https://www.york.ac.uk/'>University of York</a>. I'm currenly doing a one-year industrial placement (read: internship) at <a href="https://couchbase.com">Couchbase</a>. In my spare time I'm Technical Director at [@YorkVision](https://github.com/YorkVision) as well as doing development and systems administration for the Computing Teams at <a href="https://github.com/UniversityRadioYork">@UniversityRadioYork</a>, the UK's oldest independent legal radio station, and <a href="https://github.com/ystv">@ystv</a>, the UK's oldest student television station.
   
 </p>
 
