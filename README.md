@@ -7,7 +7,7 @@ I'm a Computer Science undergraduate at the <a href='https://www.york.ac.uk/'>Un
 </p>
 
 - 🛠 I'm primarily interested in back-end and full-stack web development, with most of my experience with React on the front-end and Go and Node.js on the back-end. I also have a reasonable amount of Linux system administration and CI/CD experience.
-- ⌨️ Languages incl. Javascript (Typescript, Go, Python, PHP. Currently on-and-off learning Rust and Kotlin.
+- ⌨️ Languages incl. Javascript (Typescript), Go, Python, PHP. Currently on-and-off learning Rust and Kotlin.
 - 💬 I'm expecting to graduate in the summer of 2024, so if by some bizarre chance you have jobs that will still be open then please get in touch! If not, watch this space.
 
 <h3>Getting in touch</h3>
